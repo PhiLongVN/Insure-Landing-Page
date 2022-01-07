@@ -21,8 +21,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-
-  
+  width: 100%;
 }
 
 /* ========================================================================== */
@@ -185,7 +184,6 @@ body {
   gap: 2rem;
 
   .info-block {
-   
     display: flex;
     align-items: flex-start;
     justify-content: stretch;
